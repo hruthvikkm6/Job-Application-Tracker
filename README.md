@@ -25,18 +25,14 @@ This project simulates a real-world SaaS product for job seekers.
 ---
 
 ## Project Preview
+<img width="1901" height="869" alt="Screenshot 2026-05-15 144936" src="https://github.com/user-attachments/assets/fbf84b50-4172-411a-ba9c-5ad0fe35452c" />
+<img width="1900" height="869" alt="Screenshot 2026-05-15 145002" src="https://github.com/user-attachments/assets/433c38ef-cf78-4679-88fa-ce331ceb0b83" />
+<img width="1901" height="869" alt="Screenshot 2026-05-15 145017" src="https://github.com/user-attachments/assets/947af80d-aae9-4a23-8d0f-8f84d8988810" />
+<img width="1919" height="867" alt="Screenshot 2026-05-15 144834" src="https://github.com/user-attachments/assets/b7f291c2-e7c8-4d7b-998d-d1f3ff08b270" />
+<img width="1919" height="869" alt="Screenshot 2026-05-15 144823" src="https://github.com/user-attachments/assets/d2d6af18-d8a1-4810-aa3d-d961d76e2782" />
 
-> Add screenshots here for better recruiter visibility
 
-Example:
 
-```md
-![Dashboard Screenshot](screenshots/dashboard.png)
-![Applications Screenshot](screenshots/applications.png)
-![Resume Management Screenshot](screenshots/resume.png)
-```
-
----
 
 # Architecture
 
